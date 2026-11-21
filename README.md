@@ -33,5 +33,9 @@ I plan to print this using the following settings:
 - **Infill:** 15-20%
 - **Layer Height:** Standard
 - **Supports:** Automatic supports
+  
+## Editable CAD Source
+
+[Open Onshape Model](https://cad.onshape.com/documents/2c0d4bf8ce56c963b5252971/w/1e8b5611bc1bc985227aa51f/e/85257a588dea4c3b361326dd)
 
 I recommend using **tree supports** to avoid interfering with the track sections. They should also be a more cost-effective option than other viable support configurations while maintaining stability.
